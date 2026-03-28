@@ -42,7 +42,7 @@ public:
         }
         counter[ch] -= 1;
        }
-       return true;
+       return true;.
 
     }
     
